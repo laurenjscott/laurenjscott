@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laurenjscott
-- 👀 I’m interested in web development, data structures, agile methodology, and process mapping.
+- 👀 I’m interested in problem solving, web development, data structures, agile methodology, and process mapping.
 - 🌱 Always learning more about vanilla JavaScript, SQL, and JSON.
 - Lover of clean and efficient code that a normal human can read and understand.
 - #TeamFlowcharts
