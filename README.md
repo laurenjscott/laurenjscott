@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @laurenjscott
 - 👀 I’m interested in web development, data structures, agile methodology, and process mapping.
-- 🌱 I’m currently learning vanilla JavaScript and SQLLite.
+- 🌱 Always learning more about vanilla JavaScript, SQL, and JSON.
+- #TeamFlowcharts
 
 
 <!---
